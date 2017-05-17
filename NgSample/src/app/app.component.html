@@ -1,0 +1,10 @@
+<h1>
+  {{title}}
+</h1>
+<button (click)="alert()">Alert!</button>
+<router-outlet></router-outlet>
+<div *ngIf="title=='Spock'">It is Spock</div>
+
+<ul>
+  <li *ngFor="let foo of states">{{foo | uppercase}}</li>
+</ul>
