@@ -16,4 +16,8 @@ ng new NgSample --style scss --routing true
 ## Angular 4 Feature: Lazy-Loading
 https://angular.io/docs/ts/latest/guide/ngmodule.html#!#lazy-load
 
+### Sample App
 
+https://github.com/ArchitectNow/ArchitectNow.BeerRecipes
+
+[Uses beer api at PunkApi.com](https://punkapi.com/)
