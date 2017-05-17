@@ -15,8 +15,10 @@ ng new NgSample --style scss --routing true
 
 
 
-## Angular 4 Feature: Lazy-Loading
-https://angular.io/docs/ts/latest/guide/ngmodule.html#!#lazy-load
+## Angular 4 Features
+
+[Lazy Loading Modules](https://angular.io/docs/ts/latest/guide/ngmodule.html#!#lazy-load)
+
 [Angular Http Module](https://angular.io/docs/ts/latest/guide/server-communication.html)
 
 ### Sample App
